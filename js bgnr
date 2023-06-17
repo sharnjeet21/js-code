@@ -1,1 +1,128 @@
 
+
+// 
+
+// // var n1 = 43;
+// //          var n2 = 87;
+// //           console.log(n1 + n2);
+         
+
+
+// //         //   console.log("print");
+
+// //         // var Tag = {
+// //             // x : 45,
+
+// //             // y : 6,
+// //         // }
+
+// //         // console.log(Tag);
+
+//ARRAY
+// //          var arr = [9,5,2,"aalllooooo",6];
+
+// //          console.log(arr[3]);
+
+//
+// var x=45;
+// var y= 76;// console.log(x<=y);
+
+//LOGICAL AND
+// console.log(true&&false);
+// console.log(true&&true);
+// console.log(false&&true);
+// console.log(false&&false);
+
+//LOGICAL OR
+// console.log(true||true);
+// console.log(false||true);
+// console.log(true||false);
+// console.log(false||false);
+
+
+//LOGICAL  NOT
+// console.log(!false);
+// console.log(!true);
+
+
+
+
+
+////FUNXNS
+// function avg (x,y){
+//   return(x+y)/2;
+// }
+
+// f1= avg(3,4);
+// f2= avg(5,7);
+// console.log(f1,f2);
+
+
+//IF ELSE FXNS
+// var age = prompt();
+//     if (age<18){
+//         console.log("you cant drive any car enjoy two wheelers ");
+//     }
+
+//     else {
+//         console.log("you can drive a car");
+//     }
+
+
+
+// IF ELSE FXN
+// var age = prompt();
+          
+// if(age<18){
+//     console.log("you cant drive any car enjoy two wheelers ");
+// }
+// else if(age>50){
+//     console.log("Please dont drive a car it is not safe for u");
+// }
+
+// else if (age>28){
+//     console.log("you are pro driver");
+// }
+
+// else if (age>22){
+// console.log("you can aquire full license");
+// }
+
+// else if(age>18) {
+//     console.log("you can drive car");
+// }
+
+
+// var arr = [1,2,3,4,5,6,7,8,9];
+
+// for(var i=0 ;i<arr.length;i++);
+// {
+//     console.log(arr[i]);
+// }
+
+// arr.forEach(function(element){
+//     console.log(element);
+// })
+
+
+// let j=0;
+// while(j=arr.length){
+//     console.log(arr[j]);
+//     j ++;
+// }
+
+
+// var a=12;
+// var b =76;
+// console.log("Thenvalue of a+b is", a+b);
+
+
+//   var  arr=[1,3,4,5,6,7,8,9];
+// for(var i=0;i<arr.length;i++){
+//   if(i==4){
+//     // break;
+//     continue;
+    
+//   }
+//  console.log(arr[i])}
+
